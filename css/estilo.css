@@ -1,0 +1,10 @@
+.centered {
+    margin: 0 auto !important;
+    float: none !important;
+}
+
+.horizontal-center {
+    margin: 0 auto;
+    float: none;
+
+}
