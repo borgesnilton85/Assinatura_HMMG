@@ -17,7 +17,7 @@
 							 style="margin-top: 5px;" width="145" height="84" />
 						</td>
 						<td>'; 
-	$dados = array();
+	$dados = array(); 
 	$i = 0;
 	if(isset($_GET)){
 		foreach ($_GET as $key => $value) {
